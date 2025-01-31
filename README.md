@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# Interested in AI, will try to publish something here
+
 <!--
 **RokSmo/RokSmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
